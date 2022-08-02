@@ -2,7 +2,7 @@
     "name": "doton.pkg.interface",
     "version": "0.0.1",
     "description": "Doton PHP Interfaces",
-    "namespace": "DotonCli",
+    "namespace": "DotonInterface",
     "doton":{
         "version":"0.0.2",
         "type": "package",
